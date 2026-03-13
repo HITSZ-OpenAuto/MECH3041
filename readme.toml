@@ -1,21 +1,20 @@
 course_name = "设计与制造 C"
-repo_type = "normal"
 course_code = "MECH3041"
+repo_type = "normal"
 
-description = ""
+[lecturers]
 
-[[lecturers]]
+[[lecturers.items]]
 name = "吴洋"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = "授课风格：有考勤。"
 
-[[lecturers]]
+[[lecturers.items]]
 name = "胡泓"
 
-[[lecturers]]
+[[lecturers.items]]
 name = "王焦乐"
-
 
 [[sections]]
 title = "关于考试"
