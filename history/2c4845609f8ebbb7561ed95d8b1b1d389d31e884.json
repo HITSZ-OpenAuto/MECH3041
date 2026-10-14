@@ -1,0 +1,52 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 518,
+    "time": 1767366257,
+    "hash": "8bc81be7b44009e152f968609c83771b08015e02"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1767366257,
+    "hash": "8bc81be7b44009e152f968609c83771b08015e02"
+  },
+  "README.md": {
+    "size": 931,
+    "time": 1791961674,
+    "hash": "2c4845609f8ebbb7561ed95d8b1b1d389d31e884"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1767366257,
+    "hash": "8bc81be7b44009e152f968609c83771b08015e02"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1767366257,
+    "hash": "8bc81be7b44009e152f968609c83771b08015e02"
+  },
+  "exams/2025秋期末回忆版-冰原沙漠气候.pdf": {
+    "size": 1320247,
+    "time": 1767453748,
+    "hash": "d6a4bf6fc70dbf101742ef605077c4300161d422"
+  },
+  "labs/.gitkeep": {
+    "size": 0,
+    "time": 1767366257,
+    "hash": "8bc81be7b44009e152f968609c83771b08015e02"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1767366257,
+    "hash": "8bc81be7b44009e152f968609c83771b08015e02"
+  },
+  "readme.toml": {
+    "size": 984,
+    "time": 1773428250,
+    "hash": "c04d57af06f14009a6c251ade0769a8d1816f1f6"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1767366257,
+    "hash": "8bc81be7b44009e152f968609c83771b08015e02"
+  }
+}
